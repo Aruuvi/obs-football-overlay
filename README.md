@@ -20,7 +20,7 @@ A simple OBS Studio script written in Python for managing the score and timer of
 1. **Download or clone** this repository.
 2. Open OBS Studio.
 3. Go to `Tools` > `Scripts`.
-4. Click the ➕ button to add a new script and select `obs_single_match_timer.py`.
+4. Click the ➕ button to add a new script and select `obs-football-overlay.py`.
 5. Set the following in the right panel:
    - Select a **text source** for `Team 1`, `Team 2`, and the `Timer`.
    - Set the **Match Duration (minutes)**.
